@@ -1,5 +1,5 @@
-<script>
-  import './styles.css';
+<script lang="ts">
+  import '../assets/styles/styles.scss';
 </script>
 
 <div class="app">
@@ -12,7 +12,7 @@
   <!-- <Footer /> -->
 </div>
 
-<style>
+<style lang="scss">
   .app {
     display: flex;
     flex-direction: column;
